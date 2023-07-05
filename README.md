@@ -2,8 +2,8 @@
 
 # anison_comment_script
 
-iTunes(Music)ライブラリに登録されているすべての楽曲に対し、コメント欄にアニソン情報を自動付与するPythonスクリプトです。  
-[AnisonGeneration](http://anison.info/) 様 が公開している [各種csvデータ](http://anison.info/data/download.html) を使用します。
+iTunes(Music)ライブラリに登録されているすべての楽曲に対し、コメント欄にアニソン情報を自動付与するPythonスクリプトです  
+[AnisonGeneration](http://anison.info/) 様 が公開している [各種csvデータ](http://anison.info/data/download.html) を使用します
 
 # 動作確認環境
 
@@ -35,7 +35,7 @@ anison_comment_script
 python anison_comment.py 
 ```
 
-うまく実行できない場合、「フルディスクアクセス」の権限をPythonに与えてみてください。
+うまく実行できない場合、「フルディスクアクセス」の権限をPythonに与えてみてください
 
 # 仕様
 
