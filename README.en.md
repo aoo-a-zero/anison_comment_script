@@ -1,6 +1,6 @@
 [日本語](README.md)
 
-# Anison Comment Script
+# anison_comment_script
 
 This is a Python script that automatically adds anime song information to the comment section for all songs registered in the Music (iTunes) library.
 It utilizes the [various csv data](http://anison.info/data/download.html) published by [AnisonGeneration](http://anison.info/).
