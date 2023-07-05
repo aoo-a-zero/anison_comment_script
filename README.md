@@ -19,7 +19,7 @@ iTunes(Music)ライブラリに登録されているすべての楽曲に対し�
 pip install regex jaconv appscript
 ```
 
-2. 以下のように [AnisonGeneration](http://anison.info/)様 で配布しているcsvファイルを配置
+2. 以下のように [AnisonGeneration](http://anison.info/)様 で配布している [各種csvデータ](http://anison.info/data/download.html) を配置
 
 ```
 anison_comment_script
